@@ -6,7 +6,7 @@
   
 <body>
 
-<h1 style="color:scarlet">Peso muerto: La Auténtica Salud</h1>
+<h1 style="color:red">Peso muerto: La Auténtica Salud</h1>
 
 <img src=https://github.com/Rocachondo/Tarea-2/blob/master/10852645_1611787915710694_862809422_n.jpg>
 
