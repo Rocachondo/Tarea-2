@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Peso muerto: La Auténtica Salud</title>
+    <title>Entrenamiento eficaz</title>
   </head>
   
 <body>
