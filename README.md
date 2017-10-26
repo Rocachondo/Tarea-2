@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="es-ES">
   <head>
     <title>Entrenamiento más eficaz: Peso muerto, la auténtica salud</title>
   </head>
   
 <body>
 
-<h1 style="color:red">Peso muerto: La Auténtica Salud</h1>
+<h1>Peso muerto: "La Auténtica Salud"</h1>
 
 <img src=https://github.com/Rocachondo/Tarea-2/blob/master/10852645_1611787915710694_862809422_n.jpg>
 
