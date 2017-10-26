@@ -9,7 +9,8 @@
 <hr>
 <img src=https://github.com/Rocachondo/Tarea-2/blob/master/10852645_1611787915710694_862809422_n.jpg>
 
-<h3>El entrenamiento más eficaz para piernas y espalda
+<h2>El entrenamiento más eficaz para piernas y espalda</h2>
+
 <p>Si señor.</p>
 
 <a href="https://www.w3schools.com">This is a link</a>
