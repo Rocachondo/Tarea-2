@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es-ES">
   <head>
-    <title>Entrenamiento más eficaz: Peso muerto, la auténtica salud</title>
+    <title style="font-size:32px;">Entrenamiento más eficaz: Peso muerto, la auténtica salud</title>
   </head>
   
 <body>
