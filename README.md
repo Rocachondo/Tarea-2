@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="es-ES">
   <head>
-    <title style="font-size:32px;">Entrenamiento más eficaz: Peso muerto, la auténtica salud</title>
+    <title>Entrenamiento más eficaz: Peso muerto, la auténtica salud</title>
   </head>
   
 <body>
 
-<h1>Peso muerto: "La Auténtica Salud"</h1>
+<h1 style="font-size:32px;">Peso muerto: "La Auténtica Salud"</h1>
 
 <img src=https://github.com/Rocachondo/Tarea-2/blob/master/10852645_1611787915710694_862809422_n.jpg>
 
