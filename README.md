@@ -16,8 +16,12 @@
 
 <p>¿LLevas tiempo entrenando y no ves resultados? ¿No consigues aumentar tu fuerza? ¿No consigues definir?</p>
 
-<p>Existen varios motivos para ello, especialmente la dieta, pero hoy hablaremos de un ejercicio que no puede faltar jamás en tu rutina: [b]El peso muerto[/b].</p>
+<p>Existen varios motivos para ello, especialmente la dieta, pero habitualmente va acompañado de rutinas ineficaces y ejercicios inútiles. Hoy hablaremos de un ejercicio que no puede faltar jamás en tu rutina: El peso muerto.</p>
+<hr>
 
+<h3>LOS BÁSICOS</h3>
+
+<p>Se conoce 
 
 <h2>El entrenamiento más eficaz para piernas y espalda</h2>
 
