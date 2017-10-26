@@ -8,7 +8,7 @@
 <h1>Peso muerto: "La Auténtica Salud"</h1>
 <hr>
 <img src=https://github.com/Rocachondo/Tarea-2/blob/master/10852645_1611787915710694_862809422_n.jpg>
-<hr>
+
   <h3>El entrenamiento más eficaz para piernas y espalda
 <p>Si señor.</p>
 
