@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html lang="es-ES">
+  
 <head>
-  <title>Entrenamiento más eficaz: Peso muerto, la auténtica salud</title>
-  <meta name="description" content="Para un entrenamiento más eficaz hay que trabajar duro los ejercicios básicos. El peso muerto es el ejercicio por excelencia, es la auténtica salud"/>
+  
+<title>Entrenamiento más eficaz: Peso muerto, la auténtica salud</title>
+
+<meta name="description" content="Para un entrenamiento más eficaz hay que trabajar duro los ejercicios básicos. El peso muerto es el ejercicio por excelencia, es la auténtica salud"/>
+
 </head>
   
 <body>
