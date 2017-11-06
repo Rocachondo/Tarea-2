@@ -22,8 +22,8 @@
 
 <h3>LOS BÁSICOS</h3>
 
-<p>Se conoce como básicos a los ejercicios multiarticulares donde intervienen cadenas musculares enteras y se emplea gran parte del cuerpo para desarrollos. En este grupo encontramos sentadillas, dominadas, press de pecho, press de hombros y por supuesto, el peso muerto.</p>
-
+<p><q>Se conoce como básicos a los ejercicios multiarticulares donde intervienen cadenas musculares enteras y se emplea gran parte del cuerpo para desarrollos. En este grupo encontramos sentadillas, dominadas, press de pecho, press de hombros y por supuesto, el peso muerto.</q></p>
+<hr>
 
 
 <h2>El entrenamiento más eficaz para piernas y espalda</h2>
