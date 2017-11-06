@@ -41,13 +41,28 @@ Al entrenar peso muerto, se activa la totalidad de los músculos del cuerpo, con
   </tr>
   <tr>
     <td>Torso</td>
-    <td>Media, estabilizadora</td> 
+    <td>Alta, estabilizadora</td> 
     <td>Abdominales, oblicuo externo</td>
   </tr>
   <tr>
     <td>Espalda</td>
     <td>Alta</td> 
     <td>Iliocostal, Intertransversarii laterales lumborum, Latissimus dorsi, Elevador de la escápula, Longisimo, Cuadrado lumbar, Romboides mayor, Serrato posterior superiore inferior, Esplenio del cuello, Redondo Mayor(redondo mayor), Trapecio</td>
+  </tr>
+  <tr>
+    <td>Piernas</td>
+    <td>Alta</td> 
+    <td>Cuádriceps (Recto femoral, Vasto lateral, Vasto intermedio, Vasto medial), Femorales (Biceps femoris, porciones larga y corta, Semitendinoso, Semimembranoso)</td>
+  </tr>
+  <tr>
+    <td>Glúteos</td>
+    <td>Alta</td> 
+    <td>Glúteo mayor, Glúteo menor, Piriforme, Gemino superior</td>
+  </tr>
+  <tr>
+    <td>Antebrazos</td>
+    <td>Alta</td> 
+    <td>Flexor profundo de los dedos, Flexor superficial de los dedos</td>
   </tr>
 </table>
 <br>
