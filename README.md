@@ -44,7 +44,11 @@
 </body>
 </html>
 
-<a href="https://www.w3schools.com">This is a link</a>
+<a href="https://powerexplosive.com/tecnica-correcta-del-peso-muerto/">Técnica correcta</a>
+
+<a href="http://www.forma-sport.com/beneficios-del-peso-muerto/">Beneficios</a>
+
+<a href="https://www.cambiatufisico.com/masa-muscular-peso-muerto/">Desarrollo muscular y fuerza</a>
 
 <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 
