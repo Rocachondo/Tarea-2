@@ -24,7 +24,7 @@
 
 <p>Se conoce como básicos a los ejercicios multiarticulares donde intervienen cadenas musculares enteras y se emplea gran parte del cuerpo para desarrollos. En este grupo encontramos sentadillas, dominadas, press de pecho, press de hombros y por supuesto, el peso muerto.</p>
 
-<img src=https://github.com/Rocachondo/Tarea-2/blob/master/Image/Chica2.jpg>
+
 
 <h2>El entrenamiento más eficaz para piernas y espalda</h2>
 
@@ -40,19 +40,15 @@
 
 <p>Es uno de los ejercicios más completos, y debe realizarse de forma asidua en toda rutina, sea cual sea el objetivo de la misma. Dependiendo del tipo de entrenamiento y su frecuencia, deberemos incluirlo como ejercicio principal o en forma de parciales, haciendo uso de alguna de sus variantes como el peso muerto rumano</p>
 
-<p>En próximas entregas hablaremos de su técnica, el volumen de entrenamiento a emplear y la frecuencia recomendada, así como los beneficios concretos que obtendremos al incluir este ejercicio en nuestra rutina.</p>
-</body>
-</html>
+<img src=https://github.com/Rocachondo/Tarea-2/blob/master/Image/Chica2.jpg>
+
+<p>En próximas entregas hablaremos de su técnica, el volumen de entrenamiento a emplear y la frecuencia recomendada, así como los beneficios concretos que obtendremos al incluir este ejercicio en nuestra rutina. Mientras tanto, dejo unos enlaces interesantes para ir adelantando:</p>
+
 
 <a href="https://powerexplosive.com/tecnica-correcta-del-peso-muerto/">Técnica correcta</a>
 
 <a href="http://www.forma-sport.com/beneficios-del-peso-muerto/">Beneficios</a>
 
 <a href="https://www.cambiatufisico.com/masa-muscular-peso-muerto/">Desarrollo muscular y fuerza</a>
-
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
-
-
-
-style="font-size:32px;"
-<hr> separador
+</body>
+</html>
