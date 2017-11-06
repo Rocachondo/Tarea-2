@@ -10,7 +10,7 @@
 
 <img src="https://github.com/Rocachondo/Tarea-2/blob/master/Image/Tarrako.jpg" alt="Strongman Tarrako">
 
-<p>Con el auge de los gimnasios modernos se han ido incluyendo muchas máquinas bonitas donde hacer todo tipo de ejercicios, desde la típica polea donde practicar jalones a la máquina de extensión de caderas donde vemos habitualmente a las chicas trabajando cientos de veces extensiones con poco peso para <i>"tonificar"</i> los glúteos.<br><br>
+<p>Con el auge de los gimnasios modernos se han ido incluyendo muchas máquinas bonitas donde hacer todo tipo de ejercicios, desde la típica polea donde practicar jalones a la máquina de extensión de caderas donde vemos habitualmente a las chicas trabajando cientos de veces extensiones con poco peso para <i>"tonificar"</i> los glúteos.<br/><br/>
 Ya sea por el fruto del marketing de las cadenas de gimnasios comerciales, la poca preparación de los "monitores" o las pocas ganas de sudar de la gente, nos encontramos con un panorama desolador: Prácticamente nadie entrena los ejercicios básicos (salvo el press de banca claro, que hay que lucir un pecho fornido la playita).<br><br>
 ¿Llevas tiempo entrenando y no ves resultados? ¿No consigues aumentar tu fuerza? ¿No consigues definir?<br><br>
 Existen varios motivos para ello, especialmente la dieta, pero habitualmente va acompañado de rutinas ineficaces y ejercicios inútiles. Hoy hablaremos de un ejercicio que no puede faltar jamás en tu rutina: El peso muerto.</p>
