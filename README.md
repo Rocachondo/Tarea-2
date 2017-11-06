@@ -21,11 +21,21 @@
 
 <h3>LOS BÁSICOS</h3>
 
-<p>Se conoce 
+<p>Se conoce como básicos a los ejercicios multiarticulares donde intervienen cadenas musculares enteras y se emplea gran parte del cuerpo para desarrollos. En este grupo encontramos sentadillas, dominadas, press de pecho, press de hombros y por supuesto, el peso muerto.</p>
 
 <h2>El entrenamiento más eficaz para piernas y espalda</h2>
 
-<p>Si señor.</p>
+<p>Entrenar cadenas musculares implica una eficacia altísima del entrenamiento. Al contrario que los ejercicios de aislamientos, donde se busca ejercitar un reducido grupo de músculos en concreto, en los básicos intervienen varias grupos de musculos de forma simultanea o secuencial.</p>
+
+<p>Al entrenar peso muerto, se activa la totalidad de los músculos del cuerpo, consiguiendo un reclutamiento de fibras en la parte posterior de las piernas y espalda especialmente importante. Sus principales características son:</p>
+
+  <p>- Activación de todo el tren inferior, con un especial trabajo de femoral y gluteos.
+  - Reclutamiento de los abdominales, que actuan como estabilizadores e intervinien en la transferencia de fuerza.
+  - Activación de la espalda, interviniendo los lumbares como estabilizadores y toda la parte alta como tractores del movimiento.
+  - Activación de pecho, hombros, brazos y antebrazos, que se tensan sin contraerse para soportar las cargas.</p>
+
+
+
 
 <a href="https://www.w3schools.com">This is a link</a>
 
