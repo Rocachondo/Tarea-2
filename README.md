@@ -29,9 +29,9 @@
 
 <p>Al entrenar peso muerto, se activa la totalidad de los músculos del cuerpo, consiguiendo un reclutamiento de fibras en la parte posterior de las piernas y espalda especialmente importante. Sus principales características son:</p>
 
-  <p>- Activación de todo el tren inferior, con un especial trabajo de femoral y gluteos.
-  - Reclutamiento de los abdominales, que actuan como estabilizadores e intervinien en la transferencia de fuerza.
-  - Activación de la espalda, interviniendo los lumbares como estabilizadores y toda la parte alta como tractores del movimiento.
+  <p>- Activación de todo el tren inferior, con un especial trabajo de femoral y gluteos.  
+  - Reclutamiento de los abdominales, que actuan como estabilizadores e intervinien en la transferencia de fuerza.  
+  - Activación de la espalda, interviniendo los lumbares como estabilizadores y toda la parte alta como tractores del movimiento.  
   - Activación de pecho, hombros, brazos y antebrazos, que se tensan sin contraerse para soportar las cargas.</p>
 
 
