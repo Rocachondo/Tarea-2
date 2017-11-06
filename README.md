@@ -31,11 +31,12 @@
 <p>Entrenar cadenas musculares implica una eficacia altísima del entrenamiento. Al contrario que los ejercicios de aislamientos, donde se busca ejercitar un reducido grupo de músculos en concreto, en los básicos intervienen varias grupos de músculos de forma simultánea o secuencial.</p>
 
 <p>Al entrenar peso muerto, se activa la totalidad de los músculos del cuerpo, consiguiendo un reclutamiento de fibras en la parte posterior de las piernas y espalda especialmente importante. Sus principales características son:</p>
-
-  <p>- Activación de todo el tren inferior, con un especial trabajo de femoral y glúteos.  
-  - Reclutamiento de los abdominales, que actúan como estabilizadores e intervienen en la transferencia de fuerza.  
-  - Activación de la espalda, interviniendo los lumbares como estabilizadores y toda la parte alta como tractores del movimiento.  
-  - Activación de pecho, hombros, brazos y antebrazos, que se tensan sin contraerse para soportar las cargas.</p>
+  <ol>
+    <li>Activación de todo el tren inferior, con un especial trabajo de femoral y glúteos.
+    <li>Activación total de la espalda, interviniendo los lumbares como estabilizadores y toda la parte alta como tractores del movimiento.
+    <li>Reclutamiento de los abdominales, que actúan como estabilizadores e intervienen en la transferencia de fuerza.
+    <li>Activación de pecho, hombros, brazos y antebrazos, que se tensan sin contraerse para soportar las cargas.
+  </ol>
 
 
 <p>Es uno de los ejercicios más completos, y debe realizarse de forma asidua en toda rutina, sea cual sea el objetivo de la misma. Dependiendo del tipo de entrenamiento y su frecuencia, deberemos incluirlo como ejercicio principal o en forma de parciales, haciendo uso de alguna de sus variantes como el peso muerto rumano</p>
