@@ -8,7 +8,7 @@
 <body>
 <h1>Peso muerto: "La Auténtica Salud"</h1>
 
-<img src=https://github.com/Rocachondo/Tarea-2/blob/master/10852645_1611787915710694_862809422_n.jpg>
+<img src=https://github.com/Rocachondo/Tarea-2/blob/master/Image/Tarrako.jpg>
 
 <p>Con el auge de los gimnasios modernos se han ido incluyendo muchas máquinas bonitas donde hacer todo tipo de ejercicios, desde la típica polea donde practicar jalones a la máquina de extensión de caderas donde vemos habitualmente a las chicas trabajando cientos de veces extensiones con poco peso para "tonificar" los glúteos.</p>
 
@@ -24,7 +24,7 @@
 
 <p>Se conoce como básicos a los ejercicios multiarticulares donde intervienen cadenas musculares enteras y se emplea gran parte del cuerpo para desarrollos. En este grupo encontramos sentadillas, dominadas, press de pecho, press de hombros y por supuesto, el peso muerto.</p>
 
-
+<img src=https://github.com/Rocachondo/Tarea-2/blob/master/Image/Chica2.jpg>
 
 <h2>El entrenamiento más eficaz para piernas y espalda</h2>
 
