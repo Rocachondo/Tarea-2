@@ -66,7 +66,7 @@ Al entrenar peso muerto, se activa la totalidad de los músculos del cuerpo, con
   </tr>
 </table>
 <br>
-Es uno de los ejercicios más completos, y debe realizarse de forma asidua en toda rutina, sea cual sea el objetivo de la misma. Dependiendo del tipo de entrenamiento y su frecuencia, deberemos incluirlo como ejercicio principal o en forma de parciales, haciendo uso de alguna de sus variantes como el <i>peso muerto rumano.</i></p>
+Como se puede observar, es uno de los ejercicios más completos, y debe realizarse de forma asidua en toda rutina, sea cual sea el objetivo de la misma (hipertrofia, fuerza, definición, funcional...). Dependiendo del tipo de entrenamiento y su frecuencia, deberemos incluirlo como ejercicio principal o en forma de parciales, haciendo uso de alguna de sus variantes como el <i>peso muerto rumano.</i></p>
 
 <img src=https://github.com/Rocachondo/Tarea-2/blob/master/Image/Chica2.jpg>
 
