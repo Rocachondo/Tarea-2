@@ -8,7 +8,7 @@
 <body>
 <h1>Peso muerto: "La Auténtica Salud"</h1>
 
-<img src=https://github.com/Rocachondo/Tarea-2/blob/master/Image/Tarrako.jpg>
+<img src="https://github.com/Rocachondo/Tarea-2/blob/master/Image/Tarrako.jpg" alt="Strongman Tarrako">
 
 <p>Con el auge de los gimnasios modernos se han ido incluyendo muchas máquinas bonitas donde hacer todo tipo de ejercicios, desde la típica polea donde practicar jalones a la máquina de extensión de caderas donde vemos habitualmente a las chicas trabajando cientos de veces extensiones con poco peso para <i>"tonificar"</i> los glúteos.<br><br>
 Ya sea por el fruto del marketing de las cadenas de gimnasios comerciales, la poca preparación de los "monitores" o las pocas ganas de sudar de la gente, nos encontramos con un panorama desolador: Prácticamente nadie entrena los ejercicios básicos (salvo el press de banca claro, que hay que lucir un pecho fornido la playita).<br><br>
@@ -66,9 +66,9 @@ Al entrenar peso muerto, se activa la totalidad de los músculos del cuerpo, con
   </tr>
 </table>
 <br>
-Como se puede observar, es uno de los ejercicios más completos, y debe realizarse de forma asidua en toda rutina, sea cual sea el objetivo de la misma (hipertrofia, fuerza, definición, funcional...). Dependiendo del tipo de entrenamiento y su frecuencia, deberemos incluirlo como ejercicio principal o en forma de parciales, haciendo uso de alguna de sus variantes como el <i>peso muerto rumano.</i></p>
+<p>Como se puede observar, es uno de los ejercicios más completos, y debe realizarse de forma asidua en toda rutina, sea cual sea el objetivo de la misma (hipertrofia, fuerza, definición, funcional...). Dependiendo del tipo de entrenamiento y su frecuencia, deberemos incluirlo como ejercicio principal o en forma de parciales, haciendo uso de alguna de sus variantes como el <i>peso muerto rumano.</i></p>
 
-<img src=https://github.com/Rocachondo/Tarea-2/blob/master/Image/Chica2.jpg>
+<img src="https://github.com/Rocachondo/Tarea-2/blob/master/Image/Chica2.jpg" alt="Chica haciendo peso muerto">
 
 <p>En próximas entregas hablaremos de su técnica, el volumen de entrenamiento a emplear y la frecuencia recomendada, así como los beneficios concretos que obtendremos al incluir este ejercicio en nuestra rutina. Mientras tanto, dejo unos enlaces interesantes para ir adelantando:</p>
 
