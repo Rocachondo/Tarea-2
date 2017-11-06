@@ -44,11 +44,11 @@
 
 <p>En próximas entregas hablaremos de su técnica, el volumen de entrenamiento a emplear y la frecuencia recomendada, así como los beneficios concretos que obtendremos al incluir este ejercicio en nuestra rutina. Mientras tanto, dejo unos enlaces interesantes para ir adelantando:</p>
 
+<ul>
+  <li><a href="https://powerexplosive.com/tecnica-correcta-del-peso-muerto/">Técnica correcta</a></li>
+  <li><a href="http://www.forma-sport.com/beneficios-del-peso-muerto/">Beneficios</a></li>
+  <li><a href="https://www.cambiatufisico.com/masa-muscular-peso-muerto/">Desarrollo muscular y fuerza</a></li>
+</ul>
 
-<a href="https://powerexplosive.com/tecnica-correcta-del-peso-muerto/">Técnica correcta</a>
-
-<a href="http://www.forma-sport.com/beneficios-del-peso-muerto/">Beneficios</a>
-
-<a href="https://www.cambiatufisico.com/masa-muscular-peso-muerto/">Desarrollo muscular y fuerza</a>
 </body>
 </html>
