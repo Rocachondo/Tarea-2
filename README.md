@@ -22,7 +22,6 @@ Existen varios motivos para ello, especialmente la dieta, pero habitualmente va 
 <p><i>Se conoce como básicos a los ejercicios multiarticulares donde intervienen cadenas musculares enteras y se emplea gran parte del cuerpo para desarrollos. En este grupo encontramos sentadillas, dominadas, press de pecho, press de hombros y por supuesto, el peso muerto.</i></p>
 <hr>
 
-
 <h2>El entrenamiento más eficaz para piernas y espalda</h2>
 
 <p>Entrenar cadenas musculares implica una eficacia altísima del entrenamiento. Al contrario que los ejercicios de aislamientos, donde se busca ejercitar un reducido grupo de músculos en concreto, <b>en los básicos intervienen varias grupos de músculos de forma simultánea o secuencial.</b><br><br>
@@ -33,6 +32,24 @@ Al entrenar peso muerto, se activa la totalidad de los músculos del cuerpo, con
     <li>Reclutamiento de los abdominales, que actúan como estabilizadores e intervienen en la transferencia de fuerza.
     <li>Activación de pecho, hombros, brazos y antebrazos, que se tensan sin contraerse para soportar las cargas.
   </ol>
+<br>
+<table style="width:100%">
+  <tr>
+    <th>Grupo</th>
+    <th>Activación</th> 
+    <th>Músculos</th>
+  </tr>
+  <tr>
+    <td>Torso</td>
+    <td>Media, estabilizadora</td> 
+    <td>Abdominales, oblicuo externo</td>
+  </tr>
+  <tr>
+    <td>Espalda</td>
+    <td>Alta</td> 
+    <td>Iliocostal, Intertransversarii laterales lumborum, Latissimus dorsi, Elevador de la escápula, Longisimo, Cuadrado lumbar, Romboides mayor, Serrato posterior superiore inferior, Esplenio del cuello, Redondo Mayor(redondo mayor), Trapecio</td>
+  </tr>
+</table>
 <br>
 Es uno de los ejercicios más completos, y debe realizarse de forma asidua en toda rutina, sea cual sea el objetivo de la misma. Dependiendo del tipo de entrenamiento y su frecuencia, deberemos incluirlo como ejercicio principal o en forma de parciales, haciendo uso de alguna de sus variantes como el <i>peso muerto rumano.</i></p>
 
