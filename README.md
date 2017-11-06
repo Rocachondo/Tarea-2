@@ -19,24 +19,22 @@ Existen varios motivos para ello, especialmente la dieta, pero habitualmente va 
 
 <h3>LOS BÁSICOS</h3>
 
-<p><q>Se conoce como básicos a los ejercicios multiarticulares donde intervienen cadenas musculares enteras y se emplea gran parte del cuerpo para desarrollos. En este grupo encontramos sentadillas, dominadas, press de pecho, press de hombros y por supuesto, el peso muerto.</q></p>
+<p><i>Se conoce como básicos a los ejercicios multiarticulares donde intervienen cadenas musculares enteras y se emplea gran parte del cuerpo para desarrollos. En este grupo encontramos sentadillas, dominadas, press de pecho, press de hombros y por supuesto, el peso muerto.</i></p>
 <hr>
 
 
 <h2>El entrenamiento más eficaz para piernas y espalda</h2>
 
-<p>Entrenar cadenas musculares implica una eficacia altísima del entrenamiento. Al contrario que los ejercicios de aislamientos, donde se busca ejercitar un reducido grupo de músculos en concreto, en los básicos intervienen varias grupos de músculos de forma simultánea o secuencial.</p>
-
-<p>Al entrenar peso muerto, se activa la totalidad de los músculos del cuerpo, consiguiendo un reclutamiento de fibras en la parte posterior de las piernas y espalda especialmente importante. Sus principales características son:</p>
+<p>Entrenar cadenas musculares implica una eficacia altísima del entrenamiento. Al contrario que los ejercicios de aislamientos, donde se busca ejercitar un reducido grupo de músculos en concreto, en los básicos intervienen varias grupos de músculos de forma simultánea o secuencial.<br><br>
+Al entrenar peso muerto, se activa la totalidad de los músculos del cuerpo, consiguiendo un reclutamiento de fibras en la parte posterior de las piernas y espalda especialmente importante. Sus principales características son:<br><br>
   <ol>
     <li>Activación de todo el tren inferior, con un especial trabajo de femoral y glúteos.
     <li>Activación total de la espalda, interviniendo los lumbares como estabilizadores y toda la parte alta como tractores del movimiento.
     <li>Reclutamiento de los abdominales, que actúan como estabilizadores e intervienen en la transferencia de fuerza.
     <li>Activación de pecho, hombros, brazos y antebrazos, que se tensan sin contraerse para soportar las cargas.
   </ol>
-
-
-<p>Es uno de los ejercicios más completos, y debe realizarse de forma asidua en toda rutina, sea cual sea el objetivo de la misma. Dependiendo del tipo de entrenamiento y su frecuencia, deberemos incluirlo como ejercicio principal o en forma de parciales, haciendo uso de alguna de sus variantes como el peso muerto rumano</p>
+<br><br>
+Es uno de los ejercicios más completos, y debe realizarse de forma asidua en toda rutina, sea cual sea el objetivo de la misma. Dependiendo del tipo de entrenamiento y su frecuencia, deberemos incluirlo como ejercicio principal o en forma de parciales, haciendo uso de alguna de sus variantes como el peso muerto rumano</p>
 
 <img src=https://github.com/Rocachondo/Tarea-2/blob/master/Image/Chica2.jpg>
 
